@@ -1,0 +1,2 @@
+# Addressing-the-Missing-Information-in-Depth-Images-Using-the-Iterative-Learning-Approach
+Depth imaging is vital in Autonomous Driving Systems (ADS) for detecting objects. A major challenge is missing data in Depth images. Our research tackles this by training a model to generate Depth from single RGB images and applying it to fill missing data. Testing on the Cityscapes dataset showed improved Depth accuracy.
