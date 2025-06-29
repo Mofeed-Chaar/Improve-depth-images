@@ -1,0 +1,10 @@
+directories:
+  root: 'Data/cityscapes/depth'
+  root_labels: 'disparity_sequence_trainvaltest/disparity_sequence'
+  root_images: 
+    - 'leftImg8bit_sequence'
+    - 'rightImg8bit_sequence'
+cam_side:
+  train: 'left' # left, right, both
+  test: 'left'# left, right, both
+
