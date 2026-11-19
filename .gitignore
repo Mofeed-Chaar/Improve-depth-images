@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+Data/
+model/
+saved_images/
+highst_images_acc/
+*.pth.tar
+*.pt
+*.onnx
+results.csv
+.ipynb_checkpoints/

@@ -1,0 +1,10 @@
+# Install torch/torchvision for your CUDA version first: https://pytorch.org/get-started/locally/
+albumentations>=1.3
+opencv-python>=4.8
+numpy
+pandas
+Pillow
+PyYAML
+tqdm
+matplotlib
+torchsummary
